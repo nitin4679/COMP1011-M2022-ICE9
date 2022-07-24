@@ -6,10 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1f9f8e30-bfbd-409a-8586-66ded300e760" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ca/georgiancollege/comp1011m2022ice9/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ca/georgiancollege/comp1011m2022ice9/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ca/georgiancollege/comp1011m2022ice9/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ca/georgiancollege/comp1011m2022ice9/Movie.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ca/georgiancollege/comp1011m2022ice9/SearchViewController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ca/georgiancollege/comp1011m2022ice9/SearchViewController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/ca/georgiancollege/comp1011m2022ice9/search-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/ca/georgiancollege/comp1011m2022ice9/search-view.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
