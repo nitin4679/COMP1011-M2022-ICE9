@@ -195,7 +195,7 @@ public class Movie
                 getWriters(), getActors(), getPlot(), getPoster(), getIMDB_ID(), getType());
          */
 
-        return String.format("Title: %s, Year: %s",
-                getTitle(), getYear());
+        return String.format("Title: %s, Year: %s, IMDB ID: %s",
+                getTitle(), getYear(), getIMDB_ID());
     }
 }
